@@ -2,7 +2,7 @@
 layout: post
 ---
 
-#And why you should consider it
+#And why you should consider it#
 
 Let’s not kid ourselves: 9-5 jobs aren’t for everyone. For one, the hours are long. Thanks to mobile technology that allows bosses or clients to reach you anytime, the “9-5” concept has become an outdated notion, increasingly blurring the proverbial work-life balance line. It’s not uncommon for full-timers to take their jobs home and continue working after dinner or before bedtime. And assuming you don’t live near your office, factoring in a daily commute will have you wishing there were more hours in a day. 
 
